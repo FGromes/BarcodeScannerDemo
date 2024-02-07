@@ -1,0 +1,32 @@
+{
+    "4008400122625":{
+        "ean": 4008400122625,
+        "name": "Giotto",
+        "category": "Other",
+        "desc": "Gefüllte Haselnuss-Gebäckspezialität mit feiner Haselnuss-Magermilchcreme (45%)",
+        "imageName": "Giotto"
+    },
+    "4061464301986":{
+        "ean": 4061464301986,
+        "name": "Sandwich Cookies",
+        "category": "Other",
+        "desc": "Butterkeks mit Schokoladencreme",
+        "imageName": ""
+    },
+    "-3":{
+        "ean": -3,
+        "name": "Apfel",
+        "category": "Fruit",
+        "desc": "no desc.",
+        "imageName": ""
+    },
+    "-4":{
+        "ean": -4,
+        "name": "Brot",
+        "category": "Bread",
+        "desc": "no desc.",
+        "imageName": ""
+    }
+}
+
+
